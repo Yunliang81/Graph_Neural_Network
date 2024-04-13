@@ -619,5 +619,5 @@ for n in range(81):  # There were 81 nodes in total
 
 ```
 
-**Note:** the source code was from https://github.com/panshuheng/WSGMB/tree/master, I did some editing for my learning. 
+**Note:** the source code was from https://github.com/panshuheng/WSGMB/tree/master, I did some editing for my learning purposes. 
 
